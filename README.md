@@ -51,7 +51,8 @@ Here are a few projects I'm proud of:
 |--------|------------|-------------|
 | **Cyberfiction Clone** | HTML, CSS, JavaScript | A clean clone of the Cyberfiction site to learn animations and design |
 | **Rejouice Clone** | HTML, CSS, JavaScript, GSAP | Website animation practice with scroll-triggered effects |
-| **Movies Search** | HTML, JS | Movie search UI using CodeSandbox |
+| **Movies Search** | React+Vite , tailwind | Movie search UI using CodeSandbox |
+| **Charusat-front-clone** | Html,css,js,gsap |  Create University Website Frontend With Animation  |
 
 ---
 
