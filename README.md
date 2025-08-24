@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
-<h3 align="center">💻 Passionate Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 Passionate Web & App Developer | Focus on MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Learning+New+Tech+Daily;Open+Source+Contributor;Welcome+to+my+GitHub!&center=true&width=500&height=45">
