@@ -53,6 +53,8 @@ Here are a few projects I'm proud of:
 | **Rejouice Clone** | HTML, CSS, JavaScript, GSAP | Website animation practice with scroll-triggered effects |
 | **Movies Search** | React+Vite , tailwind | Movie search UI using CodeSandbox |
 | **Charusat-front-clone** | Html,css,js,gsap |  Create University Website Frontend With Animation  |
+| **To-do list** | React+vite, Tailwind css| Create To-do list app with real date and time and add, delete or clear all functionality |
+
 
 ---
 
