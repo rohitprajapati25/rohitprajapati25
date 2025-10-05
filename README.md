@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍🎓 About Me
-- 🎓 MCA @ ISTAR College, Anand  
+- 🎓 MCA @ ISTAR College, Anand (Currently Pursuing...)
 - 🎓 BCA @ D.N.I.C.A, Anand  
 - 📍 From Khambhat, Gujarat, India  
 - 🌱 Currently learning **React.js**, **Node.js**, and **MongoDB**
